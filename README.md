@@ -4,5 +4,6 @@
  * Colocando Figuras
  * Animação
  * Colisão
+ * Utilizando teclado e mouse
 
 Link do Guia usado durante os testes: [clique aqui](http://www.labtime.ufg.br/cgames/pdf/CProgPy_Pygame.pdf)
