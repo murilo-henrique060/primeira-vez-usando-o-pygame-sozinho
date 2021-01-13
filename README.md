@@ -2,3 +2,6 @@
  Primeiras funções usando o Módulo **Pygame**.
  * Criando Janela
  * Colocando Figuras
+ * Animação
+
+Link do Guia usado durante os testes: [clique aqui](http://www.labtime.ufg.br/cgames/pdf/CProgPy_Pygame.pdf)
